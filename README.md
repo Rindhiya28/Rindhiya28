@@ -159,22 +159,11 @@ tools: ["VS Code", "Figma", "Git", "MySQL"]
 
 <br/>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rindhiya28&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=9D4EDD&fire=FFD700&currStreakLabel=FF6B9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=15" alt="GitHub Streak" />
-</div>
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rindhiya28&custom_title=🔥+Rindhiya's+Contribution+Journey&bg_color=0D1117&color=FF6B9D&line=9D4EDD&point=FFFFFF&area_color=FF6B9D&area=true&hide_border=true&radius=15" alt="Contribution Graph" width="95%" />
-</div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rindhiya28&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+
 
 <!-- Animated Divider -->
 <div align="center">
